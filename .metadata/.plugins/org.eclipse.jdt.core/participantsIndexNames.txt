@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Admin.TRNROOM10-15\Desktop\Mocroservices Training\micro-ws-may2018\micro-ws-may2018\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\417802343.index
+\Way2learnTraderApp\src\main\java
+C:\Users\Admin.TRNROOM10-15\Desktop\Mocroservices Training\micro-ws-may2018\micro-ws-may2018\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2177910592.index
+\Way2learnTraderApp\src\main\java
